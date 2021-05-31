@@ -21,7 +21,7 @@
  
  ### DFD: Cancel Booking Module
  
- ![Level0](dfd-images/DFD-Level-2/cancel booking.png)
+ ![Level0](dfd-images/DFD-Level-2/cancel%20booking.png)
  
  ### DFD: Admin Module
  
